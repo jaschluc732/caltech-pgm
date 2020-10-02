@@ -2,7 +2,7 @@
 
 int main(){
 
-print("Hello There Again you guys!!! I am C-Program waffle house. Thank you too! and come back again tomorrow");
+print("Hello There Again you guys!!! I am C-Program waffle house. Thank you too! and come back again tomorrow you guys");
 
 retrun 0;
 
